@@ -1,0 +1,67 @@
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.second{
+    background: black;
+    filter: opacity(65%);
+    height: 100vh;
+    padding:0;
+    margin: 0;
+}
+
+
+.first{
+    /* background: black;
+    filter: opacity(60%); */
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+
+.rightImage{
+
+    margin:0;
+    width:100%;
+    height:100%;
+}
+
+
+.dashFirstDesc{
+
+    color:white;
+    position: absolute;
+    top:10%;
+    left:10%;
+    right:10%;
+    bottom: 0;
+
+}
+
+.nameBattle1,.nameBattle2{
+    font-size: 50px;
+    text-shadow: 3px 3px 3px red;
+
+}
+
+
+.nameBattle3{
+    font-size: 25px;
+    text-shadow: 3px 3px 3px red;
+}
+
+
+.dashSecondDesc{
+
+    position: absolute;
+    top:25%;
+    left:20%;
+    right:20%;
+    text-align: center;
+
+}

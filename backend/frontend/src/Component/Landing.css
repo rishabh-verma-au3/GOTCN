@@ -1,0 +1,41 @@
+
+
+
+
+body{
+    padding:0;
+    margin:0;
+
+}
+
+
+
+
+.Landing-pic{
+    padding:0;
+    margin:0;
+    width: 100%;
+    height:100vh;
+    filter:brightness(70%);
+}
+
+
+.desc{
+    position: absolute;
+    top:50%;
+
+
+    left:0;
+    right:0;
+
+}
+
+.desc .first{
+    font-size: 40px;
+    color:white;
+}
+
+
+.desc .third{
+    text-align: center;
+}

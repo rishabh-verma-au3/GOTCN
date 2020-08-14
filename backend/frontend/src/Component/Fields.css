@@ -1,0 +1,12 @@
+.crd1 div{
+    border-bottom: 1px solid red;
+    padding-top:4px;
+}
+
+
+.crd1{
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    border-bottom: 2px solid red;
+}

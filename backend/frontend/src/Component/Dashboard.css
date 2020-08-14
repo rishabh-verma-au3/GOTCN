@@ -1,0 +1,39 @@
+
+
+
+
+nav{
+    background: black;
+    filter: opacity(70%);
+
+}
+
+
+a{
+    color:yellow;
+}
+
+
+a.logo{
+    color:white;
+}
+
+.bars{
+    color:yellow;
+}
+
+
+.linkList{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+
+
+.linkList .nav-item{
+
+    text-align: center;
+}
+
